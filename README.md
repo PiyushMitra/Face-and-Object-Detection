@@ -1,4 +1,4 @@
-# Smart-Camera
+# Smart-Camera(Face and Object Detection)
 This article is a description of a latest AI-powered camera system that can track faces in real time, detect objects and detect fire. This project involves using the most recent technologies like computer vision, machine learning and voice recognition making it an interactive and flexible tool for monitoring as well as security purposes.
 
 Key Features:
